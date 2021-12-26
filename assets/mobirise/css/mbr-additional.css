@@ -883,15 +883,11 @@ section.form .container {
 }
 #msg-box8-o .mbr-section-title {
   font-size: 60px;
-  color: #c0a375;
+  color: #faaf40;
 }
 #msg-box8-o .mbr-section-title SPAN {
   font-family: 'Roboto', sans-serif;
   font-size: 48px;
-}
-#msg-box8-o h3 {
-  color: #c0a375;
-  text-shadow: 6px 6px 10px #000000;
 }
 #header3-p .mbr-section-title,
 #header3-p .mbr-section-subtitle {
