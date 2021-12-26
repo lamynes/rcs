@@ -160,7 +160,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/striping-large-areas-2-600x450.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/striping.webp",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -170,10 +170,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.6"
           },
           "title": "ROUSH COMMERCIAL SERVICES",
-          "text": "Parking Lots; Seal Coating, Striping, Curb Repair, Signage &amp; Power Washing",
+          "text": "Parking Lot Seal Coating, Striping, Curb Repair, Signage &amp; Power Washing",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushcommericalservices\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -184,7 +184,7 @@
             ".mbr-section-lead": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px",
+              "font-size": "46px",
               "color": "#ffffff"
             },
             ".mbr-section-title": {
