@@ -48,7 +48,8 @@
     "imageResize": true,
     "mbrsiteDomain": "ghhec1kkdw",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -69,7 +70,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/all-2000x1500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/striping-large-areas-31-800x600.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -97,8 +98,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "color": "#ffffff",
               "font-size": "100px"
             },
@@ -106,7 +107,7 @@
               "font-size": "60px"
             }
           },
-          "_customCSS": "h1, p {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": "p {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_params": {
@@ -511,7 +512,7 @@
               "color": "#282828"
             }
           },
-          "_customCSS": ".card{\nbox-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}"
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -672,7 +673,7 @@
           ],
           "_name": "features3",
           "_anchor": "features3-l",
-          "_customCSS": ".card{\nbox-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}"
+          "_customCSS": ""
         },
         {
           "_params": {

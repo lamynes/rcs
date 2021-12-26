@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
@@ -743,14 +743,13 @@ section.form .container {
   color: #ffffff;
 }
 #header1-2 .mbr-section-title {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: #ffffff;
   font-size: 100px;
 }
 #header1-2 .mbr-section-title SPAN {
   font-size: 60px;
 }
-#header1-2 h1,
 #header1-2 p {
   color: #c0a375;
   text-shadow: 6px 6px 10px #000000;
@@ -771,18 +770,12 @@ section.form .container {
   font-size: 30px;
   color: #282828;
 }
-#extFeatures7-f .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1e .mbr-section-title {
   font-size: 36px;
-}
-#features3-l .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #content1-8 P {
   font-size: 20px;
