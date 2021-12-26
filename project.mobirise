@@ -833,7 +833,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
