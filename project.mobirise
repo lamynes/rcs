@@ -73,11 +73,15 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.9",
-            "fontName": {},
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Roof Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Roof Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -95,7 +99,9 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -126,7 +132,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "@primaryColor!important"
             }
           },
           "logo": {
@@ -336,8 +342,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p>Since breaking into the industry in 2000, Roush Commercial Services has been recognized as a dependable company in Mobile. We’ve provided clients with a wide range of services for all their needs. Whatever you have in mind, our professionals work to bring you the best in all your parking lot needs.​</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>Looking for a licensed and experienced professional to tackle a project? Get guaranteed quality results with <b><i>ROUSH COMMERCIAL SERVICES</i></b>. We offer professional and reliable services for a wide variety of needs, working with the dedication and craftsmanship that has earned us a reputation for excellence.&nbsp;</p><p><br></p><p> If you are looking for high-quality, reliable, and personal service, you’ve found the right company. Please call or contact us today to schedule an appointment. We welcome new customers.</p><p><br></p><p>\n</p><p>\n</p><p>Bookmark our website. Save our phone number for future service needs.</p>",
@@ -979,11 +985,15 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.9",
-            "fontName": {},
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Roof Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Roof Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1001,7 +1011,9 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1032,7 +1044,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "@primaryColor!important"
             }
           },
           "logo": {
