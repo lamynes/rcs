@@ -755,11 +755,11 @@ section.form .container {
   color: #ffffff;
 }
 #ext_menu-1f .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #ext_menu-1f .dropdown-item,
 #ext_menu-1f .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #ext_menu-1f .link:hover,
 #ext_menu-1f .dropdown-item:hover,
@@ -800,7 +800,7 @@ section.form .container {
 }
 #header1-2 .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
-  font-size: 46px;
+  font-size: 36px;
   color: #ffffff;
 }
 #header1-2 .mbr-section-title {
@@ -811,7 +811,8 @@ section.form .container {
 #header1-2 .mbr-section-title SPAN {
   font-size: 60px;
 }
-#header1-2 p {
+#header1-2 p,
+#header1-2 h1 {
   color: #c0a375;
   text-shadow: 6px 6px 10px #000000;
 }
@@ -854,6 +855,9 @@ section.form .container {
   color: #000000;
   font-size: 20px;
 }
+#header3-j .mbr-section-title {
+  font-size: 36px;
+}
 #content7-k .lead UL {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
@@ -871,6 +875,9 @@ section.form .container {
 }
 #form1-h .form-control-label {
   color: #232323;
+}
+#form1-h .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-10 P {
   font-size: 18px;
