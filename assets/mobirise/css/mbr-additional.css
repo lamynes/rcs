@@ -796,7 +796,7 @@ section.form .container {
 }
 #ext_menu-1f .link[aria-expanded="true"],
 #ext_menu-1f .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #faaf40!important;
 }
 #header1-2 .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
@@ -846,23 +846,27 @@ section.form .container {
 #content1-8 DIV {
   color: #282828;
 }
-#content1-w P {
-  text-align: center;
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content1-w DIV {
-  color: #282828;
-}
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
   text-align: center;
+}
+#header3-j .mbr-section-subtitle {
+  color: #000000;
+  font-size: 20px;
 }
 #content7-k .lead UL {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 #content7-k .lead {
+  color: #282828;
+}
+#content1-w P {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content1-w DIV {
   color: #282828;
 }
 #form1-h .form-control-label {
