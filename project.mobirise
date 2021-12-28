@@ -236,7 +236,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "8",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/seal-coating.webp",
