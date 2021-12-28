@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -822,13 +822,12 @@ section.form .container {
 #header3-1h .mbr-section-subtitle {
   text-align: center;
 }
-#content1-8 P {
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: left;
+#header3-1h .mbr-section-title {
+  font-size: 36px;
 }
-#content1-8 DIV {
-  color: #282828;
+#slider-1g p,
+#slider-1g h2 {
+  text-shadow: 6px 6px 10px #000000;
 }
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
@@ -843,9 +842,17 @@ section.form .container {
 }
 #content7-k .lead UL {
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #content7-k .lead {
+  color: #282828;
+}
+#content1-8 P {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#content1-8 DIV {
   color: #282828;
 }
 #content1-w P {
@@ -854,7 +861,7 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 #content1-w DIV {
-  color: #282828;
+  color: #ffffff;
 }
 #form1-h .form-control-label {
   color: #232323;
@@ -864,7 +871,7 @@ section.form .container {
 }
 #contacts1-10 P {
   font-size: 18px;
-  color: #000000;
+  color: #ffffff;
 }
 
 
@@ -928,7 +935,7 @@ section.form .container {
 }
 #contacts1-10 P {
   font-size: 18px;
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-1i .hide-buttons .nav-btn {
   display: none !important;
