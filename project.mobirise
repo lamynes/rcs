@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "power_washing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -599,7 +599,7 @@
             },
             ".mbr-section-title": {
               "font-size": "60px",
-              "color": "#faaf40"
+              "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto', sans-serif",
@@ -814,10 +814,10 @@
           "_anchor": "slider-z",
           "_styles": {
             "H2": {
-              "color": "#c0a375"
+              "color": "#ffffff"
             }
           },
-          "_customCSS": "h2 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": "h2 {\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_params": {
@@ -927,11 +927,11 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\">(251) 508-6018</a><b><i> or </i><a href=\"index.html#form1-h\"><b><i>contact</i></b></a> <i>us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.</p>",
+          "text": "<p><i>Please call <a href=\"tel:(251) 508-6018\" style=\"\" class=\"text-info\">(251) 508-6018</a> or <a href=\"index.html#form1-h\" class=\"text-info\">contact</a> us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\" class=\"text-info\">schedule an appointment</a>. We welcome new customers.</i></p><p><i style=\"\">Bookmark our website. Save our phone number for future service needs.</i><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.</p>",
           "_tags": [
             "Theme"
           ],
@@ -944,7 +944,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             "DIV": {
-              "color": "#282828"
+              "color": "#ffffff"
             }
           },
           "_anchor": "content1-u"
