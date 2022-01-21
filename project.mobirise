@@ -28,7 +28,7 @@
     "versionFirst": "4.11.4",
     "siteFonts": [],
     "uniqCompNum": 55,
-    "versionPublish": "5.4.1",
+    "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
     "": "on",
@@ -211,16 +211,16 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "46px"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Serving Mobile &amp; Baldwin County, Alabama Areas",
+          "title": "Serving the Southeast United States",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -301,7 +301,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/signage-600x450.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -312,21 +312,6 @@
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/E9TmoRZkTD4",
-                "title": "Paint Striping at Our Local Church",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               }
             ]
@@ -374,8 +359,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "title": "Why Choose Roush Commercial &amp; Residential Services",
