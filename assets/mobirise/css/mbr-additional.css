@@ -757,11 +757,11 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-1i .link {
-  font-size: 0.9rem;
+  font-size: 1.05rem;
 }
 #ext_menu-1i .dropdown-item,
 #ext_menu-1i .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.137rem;
 }
 #ext_menu-1i .link:hover,
 #ext_menu-1i .dropdown-item:hover,
@@ -798,7 +798,7 @@ section.form .container {
 }
 #ext_menu-1i .link[aria-expanded="true"],
 #ext_menu-1i .dropdown-item[aria-expanded="true"] {
-  color: #000000 !important;
+  color: #000000!important;
 }
 #header1-2 .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
