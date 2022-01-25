@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "parking_lot_sealcoating.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1616,7 +1616,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
@@ -1629,12 +1629,12 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
           "title": "Parking Lot Sealcoating",
-          "text": "<p><b>We exceed the Alabama D.O.T. standards</b></p>",
+          "text": "<p><b>WE USE THE HIGHEST QUALITY SEALCOATING PRODUCTS</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1711,7 +1711,7 @@
             }
           },
           "title": "We use the Highest Quality Sealcoating Products",
-          "text": "The Sealcoating products we use to do parking lots is the most reputable in the industry.  They stand the test of time and save our customers money over time.",
+          "text": "The Sealcoating products we use to do parking lots is the most reputable in the industry.  They stand the test of time and saves our customers money in the long run.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
