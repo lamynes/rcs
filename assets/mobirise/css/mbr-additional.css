@@ -821,10 +821,8 @@ section.form .container {
 #header1-2 .mbr-section-title I {
   font-size: 60px;
 }
-#header1-2 p,
-#header1-2 h1 {
-  color: #c0a375;
-  text-shadow: 6px 6px 10px #000000;
+#header1-2 .mbr-section-lead B {
+  font-size: 30px;
 }
 #header3-1h .mbr-section-title,
 #header3-1h .mbr-section-subtitle {
@@ -1102,7 +1100,7 @@ section.form .container {
   color: #fff;
 }
 #msg-box8-1n .mbr-section-title {
-  font-size: 60px;
+  font-size: 84px;
   font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-1n .lead {
@@ -1111,10 +1109,6 @@ section.form .container {
 #msg-box8-1n .lead P {
   font-size: 30px;
   font-family: 'PT Sans', sans-serif;
-}
-#msg-box8-1n p,
-#msg-box8-1n h3 {
-  text-shadow: 6px 6px 10px #000000;
 }
 #content1-1p P {
   font-size: 20px;

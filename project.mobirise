@@ -204,9 +204,12 @@
             },
             ".mbr-section-title I": {
               "font-size": "60px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "30px"
             }
           },
-          "_customCSS": "p, h1 {\n  color: #c0a375;\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": ""
         },
         {
           "_styles": {
@@ -1242,7 +1245,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "84px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
@@ -1282,7 +1285,7 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1n",
-          "_customCSS": "p, h3{\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": ""
         },
         {
           "_params": {
