@@ -237,8 +237,8 @@
           "_params": {
             "autoplay": true,
             "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "showBullets": true,
             "bgColor": "#fff",
             "timeout": "8",
@@ -1271,7 +1271,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property. At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project. Whether it’s a new construction project or restriping an existing parking lot, Roush Commercial Services is the right choice for the job.</p><p><br></p><p>\n</p><p>Whether your project involves parking paint lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call (251) 508-6018&nbsp;</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property. At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project. Whether it’s a new construction project or restriping an existing parking lot, Roush Commercial Services is the right choice for the job.</p><p><br></p><p>\n</p><p>Whether your project involves parking paint lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a></p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
