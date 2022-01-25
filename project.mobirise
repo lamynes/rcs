@@ -1275,7 +1275,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Parking Lot Striping",
-          "text": "<p>ADA Striping<i style=\"\">&nbsp;</i></p>",
+          "text": "<p><b>ADA Accessibility Guidelines</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1351,8 +1351,8 @@
               "size": 0
             }
           },
-          "title": "ADA Standards",
-          "text": "We understand the compliance standards and will ensure your parking lot meets the ADA standards.",
+          "title": "ADA Accessibility Guidelines",
+          "text": "We understand the compliance standards and will ensure your parking lot meets the ADA Accessibility Guidelines.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
