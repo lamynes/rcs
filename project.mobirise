@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "parking_lot_sealcoating.html",
+    "currentPage": "parking_lot_paint_striping.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1315,9 +1315,9 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1336,7 +1336,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/ada-parking-lot-compliance-diagram-image-1-1024x786.jpg",
               "link": "",
@@ -1344,10 +1343,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/E9TmoRZkTD4",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -1355,8 +1355,8 @@
               "size": 0
             }
           },
-          "title": "ADA Accessibility Guidelines",
-          "text": "We understand the compliance standards and will ensure your parking lot meets the ADA Accessibility Guidelines.",
+          "title": "Parking Lot Striping at our local Church",
+          "text": "This is a quick video of Our&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
