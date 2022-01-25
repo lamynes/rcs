@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+
 
 
 
@@ -801,12 +804,12 @@ section.form .container {
   color: #000000!important;
 }
 #header1-2 .mbr-section-lead {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 36px;
   color: #ffffff;
 }
 #header1-2 .mbr-section-title {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #ffffff;
   font-size: 100px;
 }
@@ -828,10 +831,16 @@ section.form .container {
 #header3-1h .mbr-section-title {
   font-size: 46px;
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
 #header3-1h .mbr-section-subtitle {
   color: #ffffff;
   font-size: 25px;
+  font-family: 'PT Sans', sans-serif;
+}
+#slider-1g H2 {
+  font-family: 'PT Sans', sans-serif;
+  text-align: right;
 }
 #slider-1g p,
 #slider-1g h2 {
@@ -847,17 +856,18 @@ section.form .container {
 }
 #header3-j .mbr-section-title {
   font-size: 36px;
+  font-family: 'PT Sans', sans-serif;
 }
 #content7-k .lead UL {
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #content7-k .lead {
   color: #282828;
 }
 #content1-8 P {
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   text-align: left;
 }
 #content1-8 DIV {
@@ -1010,6 +1020,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1029,11 +1040,11 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-1k .link {
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 #ext_menu-1k .dropdown-item,
 #ext_menu-1k .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.975rem;
 }
 #ext_menu-1k .link:hover,
 #ext_menu-1k .dropdown-item:hover,
@@ -1078,13 +1089,14 @@ section.form .container {
 }
 #msg-box8-1n .mbr-section-title {
   font-size: 60px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-1n .lead {
   color: #ffffff;
 }
 #msg-box8-1n .lead P {
   font-size: 48px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-1n p,
 #msg-box8-1n h3 {
@@ -1092,7 +1104,7 @@ section.form .container {
 }
 #content1-1p P {
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   text-align: left;
 }
 #content1-1p DIV {
