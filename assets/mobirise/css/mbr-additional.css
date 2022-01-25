@@ -813,6 +813,9 @@ section.form .container {
 #header1-2 .mbr-section-title SPAN {
   font-size: 60px;
 }
+#header1-2 .mbr-section-title I {
+  font-size: 60px;
+}
 #header1-2 p,
 #header1-2 h1 {
   color: #c0a375;
