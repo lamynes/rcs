@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
@@ -81,7 +81,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -252,11 +252,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Seal Coating",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg",
@@ -267,27 +268,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Crack Sealing",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.3",
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Parking Lot Paint Striping",
-                "overlay": false,
+                "title": "Parking Lot Striping",
+                "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "ADA striping",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
@@ -298,14 +300,15 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Bollard Installation",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/legacy-striping-utah-parking-lot-bollards-2000x993.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fabricated-parking-sign-1-1200x800.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -313,11 +316,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Signage",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.2"
               }
             ]
           },
@@ -1002,7 +1006,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1083,8 +1087,8 @@
     },
     "parking_lot_paint_striping.html": {
       "settings": {
-        "meta_descr": "Professional Parking Lot Paint Striping / ADA Striping / Existing or New Construction. Parking lot design, layout and striping. 100% Guaranteed. Satisfaction Guaranteed.",
-        "title": "Parking Lot Paint Striping",
+        "meta_descr": "Professional Parking Lot Striping / ADA Striping / Existing or New Construction. Parking lot design, layout and striping. 100% Guaranteed. Satisfaction Guaranteed.",
+        "title": "Parking Lot Striping",
         "order": 1
       },
       "components": [
@@ -1107,7 +1111,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Paint Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1240,7 +1244,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "Parking Lot Paint Striping",
+          "title": "Parking Lot Striping",
           "text": "<p>Insured &amp; Bonded<i style=\"\">&nbsp;</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -1256,7 +1260,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property. At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project. Whether it’s a new construction project or restriping an existing parking lot, Roush Commercial Services is the right choice for the job.</p><p><br></p><p>\n</p><p>Whether your project involves parking paint lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a></p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property. At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project. </p><p><br></p><p>Whether it’s a new construction project or restriping an existing parking lot, Roush Commercial Services is the right choice for the job.</p><p><br></p><p>\n</p><p>Whether your project involves parking paint lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-primary\">(251) 508-6018&nbsp;</a></p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -1273,6 +1277,40 @@
             }
           },
           "_anchor": "content1-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ada-parking-lot-compliance-diagram-image-1024x786.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1t"
         },
         {
           "_styles": {

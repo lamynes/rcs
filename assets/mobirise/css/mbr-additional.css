@@ -1095,6 +1095,10 @@ section.form .container {
 #content1-1p DIV {
   color: #282828;
 }
+#msg-box8-1t .mbr-section-title,
+#msg-box8-1t .lead {
+  color: #fff;
+}
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
