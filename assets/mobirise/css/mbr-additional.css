@@ -1006,6 +1006,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1086,16 +1087,19 @@ section.form .container {
 #msg-box8-1n h3 {
   text-shadow: 6px 6px 10px #000000;
 }
-#header3-1q .mbr-section-title,
-#header3-1q .mbr-section-subtitle {
-  text-align: center;
-}
 #content1-1p P {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
 #content1-1p DIV {
+  color: #282828;
+}
+#content7-1r .lead UL {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content7-1r .lead {
   color: #282828;
 }
 #contacts1-1m P {

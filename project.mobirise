@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
@@ -1266,26 +1266,6 @@
           "_customCSS": "p, h3{\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Insured &amp; Bonded&nbsp;",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q"
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1308,6 +1288,31 @@
             }
           },
           "_anchor": "content1-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text1": "<ul><li>Family Owned and Operated\n</li><li>Christian Based Business</li></ul>",
+          "text2": "<ul><li>Over 20 Years of Experience\n</li><li><b>Licensed, Bonded, Insured\n</b></li></ul>",
+          "text3": "<ul><li>Veteran and Senior Citizen Discount\n</li><li><b><i>Free estimates</i></b></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            ".lead UL": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".lead": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content7-1r"
         },
         {
           "_params": {
