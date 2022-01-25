@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "parking_lot_paint_striping.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1257,10 +1257,10 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg",
             "parallax": true,
@@ -1290,7 +1290,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property.</p><p><br></p><p> At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project. </p><p><br></p><p>Whether your project involves parking paint lot striping, stenciling, <b>ADA striping</b>, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-info\" style=\"background-color: rgb(255, 255, 255);\">(251) 508-6018&nbsp;</a><br></p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Parking lot paint striping is one of the most economical ways to improve the appearance of your property.&nbsp; At Roush Commercial Services we have the experience, equipment and qualified professionals to handle any striping project.</p><p><br></p><p>Whether your project involves parking paint lot striping, stenciling, <b>ADA striping</b>, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-info\" style=\"background-color: rgb(255, 255, 255);\">(251) 508-6018&nbsp;</a><br></p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -1313,7 +1313,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
