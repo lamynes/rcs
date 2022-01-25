@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
@@ -244,7 +244,7 @@
             "timeout": "8",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/seal-coating.webp",
+                "image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -259,7 +259,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/crack-sealing-3-531x430.jpg",
+                "image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -275,7 +275,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/striping-large-areas-2-600x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -290,7 +290,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/rcs-2-600x800.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -305,29 +305,14 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/signage-600x450.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Parking Lot Signage",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/southeast-cdsi0o-767x432.png",
+                "image": "@PROJECT_PATH@/assets/images/legacy-striping-utah-parking-lot-bollards-2000x993.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Serving the Southeastern United States",
+                "title": "Parking Lot Signage",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1243,7 +1228,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ab1326-a64194017ac94a3abac0650fb7c68572-mv2.webp",
+            "bgImage": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1288,6 +1273,33 @@
             }
           },
           "_anchor": "content1-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "Why Choose Roush Commercial &amp; Residential Services",
+          "meta": "Local residential and commercial services company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1s"
         },
         {
           "_params": {
