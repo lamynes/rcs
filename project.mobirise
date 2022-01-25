@@ -40,13 +40,13 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126685359-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-126685359-2');\n</script>\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/roush-home-and-roof-logo-sm-512x512.png",
-      "themeColor": "#c0a375"
+      "icon": "@PROJECT_PATH@/assets/images/rcs-logo-512x512.png",
+      "themeColor": "#000000"
     },
     "imageResize": true,
-    "mbrsiteDomain": "ghhec1kkdw",
+    "mbrsiteDomain": "zlbqpvfiap",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
