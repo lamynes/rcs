@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "parking_lot_paint_striping.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -176,10 +176,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "ROUSH COMMERCIAL SERVICES",
-          "text": "Parking Lot Seal Coating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing",
+          "text": "<b>Parking Lot Sealcoating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushcommericalservices\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -191,7 +191,7 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             ".mbr-section-title": {
               "font-family": "'PT Sans', sans-serif",
@@ -221,15 +221,15 @@
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
-              "font-size": "25px",
+              "font-size": "20px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#000000"
           },
           "title": "Serving the Southeastern United States",
@@ -258,7 +258,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Parking Lot Seal Coating",
+                "title": "Parking Lot Sealcoating",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -460,8 +460,8 @@
             "P": {
               "text-align": "center",
               "font-size": "20px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -569,7 +569,13 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         }
@@ -999,7 +1005,13 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },
@@ -1235,10 +1247,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".lead": {
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             ".lead P": {
-              "font-size": "48px",
+              "font-size": "30px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
@@ -1421,7 +1433,13 @@
           "_styles": {
             "P": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_anchor": "contacts1-1m"

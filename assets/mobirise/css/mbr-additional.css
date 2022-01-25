@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
 
 
 
@@ -806,7 +808,7 @@ section.form .container {
 #header1-2 .mbr-section-lead {
   font-family: 'PT Sans', sans-serif;
   font-size: 36px;
-  color: #ffffff;
+  color: #f3c649;
 }
 #header1-2 .mbr-section-title {
   font-family: 'PT Sans', sans-serif;
@@ -835,7 +837,7 @@ section.form .container {
 }
 #header3-1h .mbr-section-subtitle {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'PT Sans', sans-serif;
 }
 #slider-1g H2 {
@@ -876,7 +878,7 @@ section.form .container {
 #content1-w P {
   text-align: center;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 #content1-w DIV {
   color: #ffffff;
@@ -890,7 +892,13 @@ section.form .container {
 #contacts1-10 P {
   font-size: 18px;
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
 }
+#contacts1-10 B {
+  font-family: 'PT Sans', sans-serif;
+}
+
+
 
 
 
@@ -953,6 +961,10 @@ section.form .container {
 #contacts1-10 P {
   font-size: 18px;
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts1-10 B {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-1i .hide-buttons .nav-btn {
   display: none !important;
@@ -1016,6 +1028,8 @@ section.form .container {
 #ext_menu-1i .dropdown-item[aria-expanded="true"] {
   color: #000000 !important;
 }
+
+
 
 
 
@@ -1092,10 +1106,10 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-1n .lead {
-  color: #ffffff;
+  color: #f3c649;
 }
 #msg-box8-1n .lead P {
-  font-size: 48px;
+  font-size: 30px;
   font-family: 'PT Sans', sans-serif;
 }
 #msg-box8-1n p,
@@ -1135,4 +1149,8 @@ section.form .container {
 #contacts1-1m P {
   font-size: 18px;
   color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts1-1m B {
+  font-family: 'PT Sans', sans-serif;
 }
