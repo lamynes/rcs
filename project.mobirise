@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "parking_lot_paint_striping.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -252,7 +252,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -284,8 +284,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -293,8 +293,8 @@
                 "title": "Parking Lot Striping",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "ADA striping",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "text": "ADA Compliance",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_paint_striping.html\" data-toolbar=\"-mbrBtnMove\">Learn more ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.2"
               },
@@ -315,7 +315,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fabricated-parking-sign-1-1200x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/product-image-curbside-pickup-signs-1-1000x700.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -324,11 +324,11 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Signage",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": "",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.4"
               }
             ]
           },
