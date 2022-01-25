@@ -824,6 +824,11 @@ section.form .container {
 }
 #header3-1h .mbr-section-title {
   font-size: 46px;
+  color: #ffffff;
+}
+#header3-1h .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
 }
 #slider-1g p,
 #slider-1g h2 {
@@ -997,4 +1002,92 @@ section.form .container {
 #ext_menu-1i .link[aria-expanded="true"],
 #ext_menu-1i .dropdown-item[aria-expanded="true"] {
   color: #000000 !important;
+}
+
+
+#ext_menu-1k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1k .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1k .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-1k .close-icon::before,
+#ext_menu-1k .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-1k .link,
+#ext_menu-1k .dropdown-item {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-1k .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1k .dropdown-item,
+#ext_menu-1k .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1k .link:hover,
+#ext_menu-1k .dropdown-item:hover,
+#ext_menu-1k .link:focus,
+#ext_menu-1k .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-1k .link[aria-expanded="true"],
+#ext_menu-1k .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-1k .nav-dropdown-sm .link:focus,
+#ext_menu-1k .nav-dropdown-sm .link:hover,
+#ext_menu-1k .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1k .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-1k .navbar,
+#ext_menu-1k .nav-dropdown-sm,
+#ext_menu-1k .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1k .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-1k .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-1k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1k .bg-color.transparent.opened .link:hover,
+#ext_menu-1k .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-1k .link[aria-expanded="true"],
+#ext_menu-1k .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n .lead {
+  color: #fff;
+}
+#msg-box8-1n .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box8-1n p,
+#msg-box8-1n h3 {
+  color: #c0a375;
+  text-shadow: 6px 6px 10px #000000;
+}
+#content1-1p P {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+#content1-1p DIV {
+  color: #282828;
+}
+#contacts1-1m P {
+  font-size: 18px;
+  color: #ffffff;
 }
