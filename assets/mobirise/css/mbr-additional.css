@@ -1248,7 +1248,10 @@ section.form .container {
   text-align: left;
 }
 #content1-1y DIV {
-  color: #282828;
+  color: #000000;
+}
+#content1-1y LI {
+  font-size: 20px;
 }
 #msg-box5-1z P {
   font-size: 20px;

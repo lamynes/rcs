@@ -1625,7 +1625,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Our product is never watered down.&nbsp; Some companies water there products down to save money on there bottom line, but in reality they are short changing their customers.&nbsp; This weakened product doesn't last very long before the process has to be done again.&nbsp; We really strive to save our customers money.&nbsp;</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>There are primarily five types of pavement sealers.\n</p><p><br></p><p>These are commonly known as:</p><ol><li>Refined tar-based (coal tar based)\n</li><li>Asphalt-based\n</li><li>Acrylic (Paint)\n</li><li>Fast Dry\n</li><li>Oil based<br><br></li></ol><p>All five have their advantages and disadvantages, but are typically chosen by the preference unless otherwise specified.\n</p><p><br></p><p><b>Application methods\n</b></p><p>Prior to application the surface must be completely clean and dry using sweeping methods and/or blowers. If the surface is not clean and dry, then poor adhesion will result. Pavement sealers are applied with either pressurized spray equipment, or self-propelled squeegee machines or by hand with a brush. Equipment must have continuous agitation to maintain consistency of the sealcoat mix. The process is typically a two-coat application which requires 24 to 48 hours of curing before vehicles can be allowed back on the surface. Once the surface is properly prepared, then properly mixed sealer will be applied at about 1.5 square meters per liter (60 sq ft per U.S. gal; 72 sq ft per Imp gal) per coat. </p><p><br></p><p>Our product is never watered down.&nbsp; Some companies water there products down to save money on there bottom line, but in reality they are short changing their customers.&nbsp; This weakened product doesn't last very long before the process has to be done again.&nbsp; We really strive to save our customers money.&nbsp;</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -1638,7 +1638,10 @@
               "text-align": "left"
             },
             "DIV": {
-              "color": "#282828"
+              "color": "#000000"
+            },
+            "LI": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content1-1y"
