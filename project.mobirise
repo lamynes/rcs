@@ -2392,7 +2392,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "Parking Lot Crack Sealing",
-          "text": "<p>CRACK SEALING CAN LAST UP TO 8 YEARS</p>",
+          "text": "<p>CRACK SEALING CAN LAST UP TO <b>8 YEARS</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
