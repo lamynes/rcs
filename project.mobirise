@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "bollards_installation.html",
+    "currentPage": "parking_lot_sealcoating.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1693,7 +1693,13 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1z"
+          "_anchor": "msg-box5-1z",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -2068,7 +2074,7 @@
             }
           },
           "title": "Bollards Installation",
-          "text": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered.&nbsp; We use, design and make some of the highest quality bollard poles.&nbsp; Competitively priced and installed. <br><br>If your needing an extra layer of protection or traffic  management give us a call.&nbsp; Guaranteed we can install a product that fits your need.&nbsp; In the installation of bollards we always adhere to OSHA regulations and Standards.",
+          "text": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, <b><i>Roush Commercial Services</i></b> has you covered.&nbsp; We use, design and make some of the highest quality bollard poles.&nbsp; Competitively priced and installed. <br><br>If your needing an extra layer of protection or traffic  management give us a call.&nbsp; Guaranteed we can install a product that fits your need.&nbsp; In the installation of bollards we always adhere to OSHA regulations and Standards.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
