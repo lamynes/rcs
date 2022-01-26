@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "bollards_installation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 76,
+    "uniqCompNum": 85,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
@@ -81,7 +81,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -259,7 +259,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -307,17 +307,17 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
+                "active": true,
+                "showButtons": true,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Bollard Installation",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "text": "We always follow OSHA Regulations for Bollards installtions",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.2"
               },
@@ -454,30 +454,6 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "text": "<p><b style=\"font-style: italic;\">Please call </b><a href=\"tel:(251) 508-6018\" style=\"font-style: italic; font-weight: bold;\" class=\"text-info\">(251) 508-6018</a><b><i> or </i><i><a href=\"https://www.facebook.com/roushcommericalservices\" class=\"text-info\" target=\"_blank\"><b><i>schedule an appointment</i></b></a>. We welcome new customers.</i></b></p><p><b><i>Bookmark our website. Save our phone number for future service needs.</i></b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "20px",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-w"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#232323",
@@ -592,7 +568,7 @@
       "settings": {
         "meta_descr": "Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.",
         "title": "Residential Power Washing",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1030,7 +1006,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1139,7 +1115,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1494,7 +1470,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1846,6 +1822,393 @@
             }
           },
           "_anchor": "contacts1-22"
+        }
+      ]
+    },
+    "bollards_installation.html": {
+      "settings": {
+        "meta_descr": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered. We use, design and make some of the highest quality bollard poles. Competitively priced and installed.",
+        "title": "Bollards Installation",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            },
+            "A": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rcs-logo-110x128.png",
+              "height": 128,
+              "alt": "Roush Home & Roof",
+              "link": "index.html",
+              "title": "Roush Home & Roof",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hand-washing",
+              "family": "icon54-v2",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RCS</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-24"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "30px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Bollards Installation",
+          "text": "<p><b>We always comply with OSHA Regulations for installing Bollards</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_customCSS": "",
+          "_anchor": "msg-box8-26"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>A bollard is a unit, usually pole-shaped, that is commonly embedded in the ground or a platform and used for safety or security purposes. On a wharf, a bollard is also used to tether a boat or barge by a mooring line. Nonpermanent, reflective, portable bollards are also used in situations that do not require a permanent bollard to be installed, such as traffic construction, sporting events and concerts.</b></p><p><b><br></b></p><p><b>OSHA Bollard Requirements\n</b></p><p>The Occupational Safety and Hazards Association (OSHA) has laid out a set of standards for bollard use in safety and construction. These standards include specific color requirements (a form of canary yellow called “OSHA” yellow) and the height and weight requirements for portable hollow bollards based on their intended uses.\n</p><p><b><br></b></p><p><b>Security Use of Bollards\n</b></p><p>Solid bollards are widely used for protection and security purposes. The U.S. Department of State and Department of Defense have approved bollards for security use in public institutions and embassies with security concerns. These bollards are often disguised, painted or covered for aesthetic purposes. The Department of State has a security bollard standard of 15,000 lbs. resistance limit and 50 mph crash speed.\n</p><p><br></p><p><b>Electric/Manual Bollard Systems\n</b></p><p>For organizations without major security concerns, bollards can be installed that are designed to be lowered or removed if required. These bollards are usually controlled with a lift system powered by a hydraulic or pneumatic engine, or a manual lock in lower-end systems.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content1-27"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bollard-specs-bellingham-wa-1400x923.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Bollards Installation",
+          "text": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered. We use, design and make some of the highest quality bollard poles. Competitively priced and installed. <br><br>If your needing an extra layer of protection or traffic  management give us a call. Guaranteed we can install a product that fits your need. In the installation of bollards we always adhere to OSHA regulations and Standards.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-28",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Whether your project involves parking lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-info\">(251) 508-6018</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "DIV": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content1-29"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "Why Choose Roush Commercial Services",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text1": "<ul><li>Family Owned and Operated\n</li><li>Christian Based Business</li></ul>",
+          "text2": "<ul><li>Over 20 Years of Experience\n</li><li><b>Licensed, Bonded, Insured\n</b></li></ul>",
+          "text3": "<ul><li>Veteran and Senior Citizen Discount\n</li><li><b>Free estimates</b></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            ".lead UL": {
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".lead": {
+              "color": "#282828"
+            }
+          },
+          "_anchor": "content7-2b"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "Roush Commercial Services",
+              "title": "Roush Home & Roof",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<i><b>BUSINESS HOURS</b></i><br>Mon - Fri:&nbsp; 7:00 am - 7:00 pm\n<br>Sunday: Closed<br>",
+          "text2": "<i><b>CONTACTS</b></i><br>Phone: <a href=\"tel:(251) 508-6018\" class=\"text-info\">(251) 508-6018&nbsp;</a><br>",
+          "text3": "<i><b>LINKS</b></i><br>\n<a class=\"text-info\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\">SCHEDULE ONLINE</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
+          "_anchor": "contacts1-2c"
         }
       ]
     }
