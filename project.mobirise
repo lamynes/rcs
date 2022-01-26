@@ -49,7 +49,7 @@
     "mbrsiteDomain": "zlbqpvfiap",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -60,7 +60,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/striping_blog-1500x800.png"
       },
       "components": [
         {
@@ -171,7 +171,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/striping_blog-1500x800.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -318,12 +318,12 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "We always follow OSHA Regulations for Bollards installtions",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"bollards_installation.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ada-parking_healthcare-installation-1080x1115.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -623,7 +623,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/low-pressure-roof-washing-1330x858.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/low_pressure_roof_washing-1330x858.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -727,7 +727,7 @@
             "timeout": "10",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/82932972-467341527268324-5633989608988475392-n-1-960x720.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/82932972_467341527268324_5633989608988475392_n-1-960x720.jpeg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -743,7 +743,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/82204270-556822921577554-5566130182273630208-n-720x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/82204270_556822921577554_5566130182273630208_n-720x960.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -759,7 +759,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jobsitephoto1-mobilecountyal-roushhomeroofcleaning-952x716.png",
+                "image": "@PROJECT_PATH@/assets/images/job+site+photo+1+-+mobile+county+al+-+roush+home++roof+cleaning-952x716.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -775,7 +775,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sidingafterphoto1-mobilecountyal-roushhomeroofcleaning-1-640x716.png",
+                "image": "@PROJECT_PATH@/assets/images/siding+after+photo+1+-+mobile+county+al+-+roush+home++roof+cleaning-1-640x716.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -2382,7 +2382,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dreamstime-l-57387194-1080x675.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dreamstime_l-57387194-1080x675.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2621,7 +2621,7 @@
         "meta_descr": "If you own a commercial property with a parking lot, you’ve already probably purchased signage. But whether you’re new to the game or a veteran, you might still be wondering, what exactly are the rules and regulations regarding my signage? How much signage do I need? What type of resources are available to me?",
         "title": "Parking Lot Signage",
         "order": 5,
-        "meta_image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/ada-parking_healthcare-installation-1080x1115.jpg"
       },
       "components": [
         {
@@ -2770,7 +2770,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ada-parking_healthcare-installation-1080x1115.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
