@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "parking_lot_sealcoating.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -59,7 +59,8 @@
         "meta_descr": "We are the right people for your job! No job too big or too small. Parking lot striping, pavement seal coating, pothole repair, curb repair, new layout, ADA parking, concrete cleaning and commercial power washing.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.png"
       },
       "components": [
         {
@@ -1093,7 +1094,8 @@
       "settings": {
         "meta_descr": "Professional Parking Lot Striping / ADA Striping / Existing or New Construction. Parking lot design, layout and striping. 100% Guaranteed. Satisfaction Guaranteed.",
         "title": "Parking Lot Striping",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg"
       },
       "components": [
         {
@@ -1448,7 +1450,8 @@
       "settings": {
         "meta_descr": "The products we use to sealcoat parking lots is the most reputable in the industry.  They stand the test of time and saves our customers money in the long run.",
         "title": "Parking Lot Sealcoating",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg"
       },
       "components": [
         {
@@ -1838,7 +1841,8 @@
       "settings": {
         "meta_descr": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered. We use, design and make some of the highest quality bollard poles. Competitively priced and installed.",
         "title": "Bollards Installation",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg"
       },
       "components": [
         {
