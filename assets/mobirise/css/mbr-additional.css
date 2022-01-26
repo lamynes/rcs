@@ -845,6 +845,9 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
   text-align: right;
 }
+#slider-1g P {
+  text-align: right;
+}
 #slider-1g p,
 #slider-1g h2 {
   text-shadow: 6px 6px 10px #000000;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "signage.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -181,7 +181,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.4"
           },
           "title": "ROUSH COMMERCIAL SERVICES",
           "text": "Parking Lot Sealcoating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing",
@@ -277,16 +277,16 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": false,
+                "showButtons": true,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Crack Sealing",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "text": "CRACK SEALING CAN LAST UP TO 8 YEARS",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"crack_sealing.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "overlayOpacity": "0.3",
                 "alt": ""
               },
@@ -308,7 +308,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -324,17 +324,17 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
+                "active": true,
+                "showButtons": true,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Parking Lot Signage Installation",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "contentAlign": "right",
+                "text": "ADA Compliant",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"signage.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.3"
               }
@@ -351,6 +351,9 @@
             "H2": {
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "right"
+            },
+            "P": {
               "text-align": "right"
             }
           }
