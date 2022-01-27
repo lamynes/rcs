@@ -174,7 +174,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/striping-blog1-1500x800.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
