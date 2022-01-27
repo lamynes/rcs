@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "bollards_installation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -187,7 +187,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "ROUSH COMMERCIAL SERVICES",
-          "text": "Parking Lot Sealcoating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing",
+          "text": "<b>Parking Lot Sealcoating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"tel:(251) 508-6018\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/roushcommericalservices\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -220,7 +220,7 @@
               "font-size": "17px"
             }
           },
-          "_customCSS": ""
+          "_customCSS": "p {\n  text-shadow: 6px 6px 20px #000000;\n}"
         },
         {
           "_styles": {

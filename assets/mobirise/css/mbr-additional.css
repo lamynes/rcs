@@ -832,6 +832,9 @@ section.form .container {
 #header1-2 .btn {
   font-size: 17px;
 }
+#header1-2 p {
+  text-shadow: 6px 6px 20px #000000;
+}
 #header3-32 .mbr-section-title,
 #header3-32 .mbr-section-subtitle {
   text-align: center;
