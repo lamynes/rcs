@@ -60,7 +60,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/striping_blog-1500x800.png"
       },
       "components": [
         {
@@ -174,7 +174,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/striping-blog-1500x800.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
