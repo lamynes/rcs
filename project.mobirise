@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "power_washing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -625,7 +625,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
