@@ -810,6 +810,15 @@ section.form .container {
 #ext_menu-33 .btn {
   font-size: 17px;
 }
+#ext_menu-33 p,
+#ext_menu-33 h2,
+#ext_menu-33 a,
+#ext_menu-33 h3,
+#ext_menu-33 h4,
+#ext_menu-33 h5,
+#ext_menu-33 h1 {
+  text-shadow: 6px 6px 10px #000000;
+}
 #header1-2 .mbr-section-lead {
   font-family: 'PT Sans', sans-serif;
   font-size: 36px;
@@ -832,8 +841,14 @@ section.form .container {
 #header1-2 .btn {
   font-size: 17px;
 }
-#header1-2 p {
-  text-shadow: 6px 6px 20px #000000;
+#header1-2 p,
+#header1-2 h2,
+#header1-2 a,
+#header1-2 h3,
+#header1-2 h4,
+#header1-2 h5,
+#header1-2 h1 {
+  text-shadow: 6px 6px 10px #000000;
 }
 #header3-32 .mbr-section-title,
 #header3-32 .mbr-section-subtitle {
@@ -856,8 +871,16 @@ section.form .container {
 #slider-1g P {
   text-align: right;
 }
+#slider-1g .btn {
+  font-size: 25px;
+}
 #slider-1g p,
-#slider-1g h2 {
+#slider-1g h2,
+#slider-1g a,
+#slider-1g h3,
+#slider-1g h4,
+#slider-1g h5,
+#slider-1g h1 {
   text-shadow: 6px 6px 10px #000000;
 }
 #header3-j .mbr-section-title,
