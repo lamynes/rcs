@@ -221,7 +221,7 @@
               "font-size": "17px"
             }
           },
-          "_customCSS": "p, h2, a, h3, h4, h5, h1 {\n  text-shadow: 6px 6px 10px #000000;\n}"
+          "_customCSS": "p, h2, a, h3, h4, h5 {\n  text-shadow: 6px 6px 10px #000000;\n}"
         },
         {
           "_styles": {
@@ -341,7 +341,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "ADA Compliant",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"signage.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"signage.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.4"
               }
