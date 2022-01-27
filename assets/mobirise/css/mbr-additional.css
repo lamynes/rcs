@@ -909,6 +909,20 @@ section.form .container {
 #content1-8 DIV {
   color: #282828;
 }
+#content8-36 .mbr-section-title,
+#content8-36 .lead {
+  text-align: right;
+  color: #fff;
+}
+#content8-36 p,
+#content8-36 h2,
+#content8-36 a,
+#content8-36 h3,
+#content8-36 h4,
+#content8-36 h5,
+#content8-36 h1 {
+  text-shadow: 6px 6px 10px #000000;
+}
 #form1-h .form-control-label {
   color: #232323;
 }
