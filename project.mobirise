@@ -185,7 +185,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.2"
           },
           "title": "ROUSH COMMERCIAL SERVICES",
           "text": "<b>Parking Lot Sealcoating, Striping, Pothole Repair, Curb Repair, Signage &amp; Power Washing</b>",
@@ -279,7 +279,7 @@
                 "text": "WE USE THE HIGHEST QUALITY SEALCOATING PRODUCTS",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_sealcoating.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg",
@@ -294,7 +294,7 @@
                 "contentAlign": "right",
                 "text": "CRACK SEALING CAN LAST UP TO 8 YEARS",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"crack_sealing.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
-                "overlayOpacity": "0.4",
+                "overlayOpacity": "0.2",
                 "alt": ""
               },
               {
@@ -311,7 +311,7 @@
                 "text": "OUR PAINT PRODUCTS EXCEED THE ALABAMA D.O.T. STANDARDS",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_paint_striping.html\" data-toolbar=\"-mbrBtnMove\">Learn more ...</a>",
                 "alt": "",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg",
@@ -327,7 +327,7 @@
                 "text": "We always follow OSHA Regulations for Bollards installtions",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"bollards_installation.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg",
@@ -343,7 +343,7 @@
                 "text": "ADA Compliant",
                 "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"signage.html\" data-toolbar=\"-mbrBtnMove\">Learn More ...</a>",
                 "alt": "",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.2"
               }
             ]
           },
