@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "bollards_installation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "uniqCompNum": 115,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/rcs-logo-128x148.png",
+    "favicon": false,
     "": "on",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -46,7 +46,7 @@
       "themeColor": "#000000"
     },
     "imageResize": true,
-    "mbrsiteDomain": "zlbqpvfiap",
+    "mbrsiteDomain": "buihsdf3dp",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true
@@ -57,7 +57,7 @@
         "main": true,
         "title": "Roush Commercial Services",
         "meta_descr": "We are the right people for your job! No job too big or too small. Parking lot striping, pavement seal coating, pothole repair, curb repair, new layout, ADA parking, concrete cleaning and commercial power washing.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"TFufc_Bp9Mc61oOUnaal6NZIY8FABaURi5BT5stblfA\" />",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/striping_blog-1500x800.png"
