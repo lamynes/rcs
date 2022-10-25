@@ -282,7 +282,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "No project is too big.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_paint_striping.html\" data-toolbar=\"-mbrBtnMove\">Learn more ...</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_and_driveway_paving.html\" data-toolbar=\"-mbrBtnMove\">Learn more ...</a>",
                 "alt": "",
                 "overlayOpacity": "0.2"
               },
