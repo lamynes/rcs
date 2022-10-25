@@ -775,19 +775,19 @@ section.form .container {
 }
 #ext_menu-33 .link[aria-expanded="true"],
 #ext_menu-33 .dropdown-menu {
-  background: #000000;
+  background: #0e0e0e;
 }
 #ext_menu-33 .nav-dropdown-sm .link:focus,
 #ext_menu-33 .nav-dropdown-sm .link:hover,
 #ext_menu-33 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-33 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #202020!important;
 }
 #ext_menu-33 .navbar,
 #ext_menu-33 .nav-dropdown-sm,
 #ext_menu-33 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-33 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #282828;
 }
 #ext_menu-33 .bg-color.transparent .link {
   color: #ffffff;
@@ -802,7 +802,7 @@ section.form .container {
 }
 #ext_menu-33 .link[aria-expanded="true"],
 #ext_menu-33 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff !important;
+  color: #ffffff!important;
 }
 #ext_menu-33 A {
   font-family: 'PT Sans', sans-serif;
@@ -1752,5 +1752,146 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-33 .btn {
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+#msg-box8-38 .mbr-section-title,
+#msg-box8-38 .lead {
+  color: #fff;
+}
+#msg-box8-38 .mbr-section-title {
+  font-size: 60px;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box8-38 .lead {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box8-38 .lead P {
+  font-size: 30px;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box5-3a P {
+  font-size: 20px;
+  color: #000000;
+}
+#content1-39 P {
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+}
+#content1-39 DIV {
+  color: #282828;
+}
+#content1-3b P {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+#content1-3b DIV {
+  color: #282828;
+}
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3c .mbr-section-subtitle {
+  color: #000000;
+  font-size: 20px;
+}
+#header3-3c .mbr-section-title {
+  font-size: 36px;
+  font-family: 'PT Sans', sans-serif;
+}
+#content7-3d .lead UL {
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+#content7-3d .lead {
+  color: #282828;
+}
+#contacts1-3e P {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts1-3e B {
+  font-family: 'PT Sans', sans-serif;
+}
+#ext_menu-3f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3f .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3f .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3f .close-icon::before,
+#ext_menu-3f .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3f .link,
+#ext_menu-3f .dropdown-item {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#ext_menu-3f .link {
+  font-size: 1rem;
+}
+#ext_menu-3f .dropdown-item,
+#ext_menu-3f .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-3f .link:hover,
+#ext_menu-3f .dropdown-item:hover,
+#ext_menu-3f .link:focus,
+#ext_menu-3f .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3f .link[aria-expanded="true"],
+#ext_menu-3f .dropdown-menu {
+  background: #2e2e2e;
+}
+#ext_menu-3f .nav-dropdown-sm .link:focus,
+#ext_menu-3f .nav-dropdown-sm .link:hover,
+#ext_menu-3f .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3f .nav-dropdown-sm .dropdown-item:hover {
+  background: #3f3f3f!important;
+}
+#ext_menu-3f .navbar,
+#ext_menu-3f .nav-dropdown-sm,
+#ext_menu-3f .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3f .nav-dropdown-sm .dropdown-menu {
+  background: #474747;
+}
+#ext_menu-3f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3f .bg-color.transparent.opened .link:hover,
+#ext_menu-3f .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3f .link[aria-expanded="true"],
+#ext_menu-3f .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#ext_menu-3f A {
+  font-family: 'PT Sans', sans-serif;
+}
+#ext_menu-3f .btn {
   font-size: 17px;
 }
