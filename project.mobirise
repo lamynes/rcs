@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "parking_lot_and_driveway_paving.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -252,7 +252,7 @@
             "bgColor": "#000000"
           },
           "title": "Serving the Southeastern United States",
-          "meta": "Whether your project involves parking paint lot striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Licensed, Bonded &amp; Insured. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-danger\">(251) 508-6018</a> ",
+          "meta": "Whether your project involves parking lot paving,&nbsp; driveway paving, parking lot paint striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Licensed, Bonded &amp; Insured. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-danger\">(251) 508-6018</a> ",
           "_tags": [
             "Theme"
           ],
@@ -3402,7 +3402,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Whether your project involves parking lot paving or driveway paving, your satisfaction is always 100% guaranteed. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-info\">(251) 508-6018</a></p>",
+          "text": "<p>Whether your project involves parking lot paving,  driveway paving, parking lot paint striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Licensed, Bonded &amp; Insured. Call today for a free estimate. South Alabama call (251) 508-6018</p>",
           "_tags": [
             "Theme"
           ],
