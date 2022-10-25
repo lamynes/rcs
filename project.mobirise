@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Commercial Services",
-    "currentPage": "index.html",
+    "currentPage": "parking_lot_and_driveway_paving.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3225,7 +3225,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/308136326-849765159361004-6660980869823063247-n-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/312320184-398001502531792-4194320498497460957-n-1400x1050.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3301,8 +3301,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/312320184-398001502531792-4194320498497460957-n-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/312320184-398001502531792-4194320498497460957-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312643726-702193097583226-1977029942347925111-n-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312643726-702193097583226-1977029942347925111-n-1-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3335,8 +3335,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/310893898-656913419180627-2060721049386162531-n-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/310893898-656913419180627-2060721049386162531-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312833591-668611444625200-4181339310452212594-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312833591-668611444625200-4181339310452212594-n-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -3346,8 +3346,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/310340643-3319472038341904-998205741550702797-n-1920x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/310340643-3319472038341904-998205741550702797-n-1920x1440-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312818371-1152452432334989-8537535806461112402-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312818371-1152452432334989-8537535806461112402-n-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -3357,8 +3357,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/308136326-849765159361004-6660980869823063247-n-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/308136326-849765159361004-6660980869823063247-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312706554-492471929457206-214142352850902414-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312706554-492471929457206-214142352850902414-n-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -3368,8 +3368,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/312108851-6340087649340322-2662956224182017336-n-1-2000x2667.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/312108851-6340087649340322-2662956224182017336-n-1-2000x2667-800x586.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/312286741-454404516788747-8866307595960291834-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312286741-454404516788747-8866307595960291834-n-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -3379,8 +3379,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/parking-lot-maintenance3-1920x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/parking-lot-maintenance3-1920x1440-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/311989575-1261448661088395-5217016169152926156-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/311989575-1261448661088395-5217016169152926156-n-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
