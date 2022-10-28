@@ -271,13 +271,13 @@
             "timeout": "8",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/312218245-1144292532850110-6747555668830634490-n-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312218245_1144292532850110_6747555668830634490_n-2000x1500.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/IZXUsKvQlMU",
                 "title": "Parking Lot &amp; Driveway Paving&nbsp;",
                 "overlay": true,
                 "contentAlign": "right",
