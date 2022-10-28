@@ -271,12 +271,12 @@
             "timeout": "8",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/312218245_1144292532850110_6747555668830634490_n-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312218245-1144292532850110-6747555668830634490-n-2000x1500.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://youtu.be/IZXUsKvQlMU",
                 "title": "Parking Lot &amp; Driveway Paving&nbsp;",
                 "overlay": true,
@@ -284,7 +284,7 @@
                 "text": "No project is too big.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"parking_lot_and_driveway_paving.html\" data-toolbar=\"-mbrBtnMove\">Learn more ...</a>",
                 "alt": "",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg",
