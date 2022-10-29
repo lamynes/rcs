@@ -1816,17 +1816,23 @@ section.form .container {
 
 
 
-#extHeader5-3p H3 {
+
+
+#msg-box8-38 .mbr-section-title,
+#msg-box8-38 .lead {
+  color: #fff;
+}
+#msg-box8-38 .mbr-section-title {
+  font-size: 60px;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box8-38 .lead {
   color: #ffffff;
-}
-#extHeader5-3p P {
-  color: #ffffff;
-}
-#extHeader5-3p SPAN {
-  color: #efefef;
-}
-#extHeader5-3p LABEL {
   font-size: 20px;
+}
+#msg-box8-38 .lead P {
+  font-size: 30px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box5-3a P {
   font-size: 20px;

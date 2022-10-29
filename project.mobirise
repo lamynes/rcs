@@ -3150,18 +3150,36 @@
           "_anchor": "footer1-37"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".lead P": {
+              "font-size": "30px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showVideo": true,
-            "VideoUrl": "https://youtu.be/hz4QC8FQfh8",
-            "showArrow": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/312218245-1144292532850110-6747555668830634490-n-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3170,46 +3188,16 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/play-button.svg"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "video-play",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
           "title": "Parking Lot &amp; Driveway Paving",
           "text": "Providing the best service in the Southeastern United States",
-          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extHeader5",
+          "_name": "msg-box8",
+          "_customCSS": "",
           "_sourceTheme": "mobirise3",
-          "_anchor": "extHeader5-3p",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#efefef"
-            },
-            "LABEL": {
-              "font-size": "20px"
-            }
-          }
+          "_anchor": "msg-box8-38"
         },
         {
           "_params": {
