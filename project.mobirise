@@ -3173,8 +3173,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/312218245-1144292532850110-6747555668830634490-n-2000x1500.jpg",
             "parallax": true,
@@ -3182,7 +3182,10 @@
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/hz4QC8FQfh8?rel=0&amp;mute=1&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/hz4QC8FQfh8",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000000",
