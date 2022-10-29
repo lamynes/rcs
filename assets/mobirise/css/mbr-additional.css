@@ -1873,6 +1873,14 @@ section.form .container {
 #content7-3d .lead {
   color: #282828;
 }
+#contacts1-3k P {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+}
+#contacts1-3k B {
+  font-family: 'PT Sans', sans-serif;
+}
 #ext_menu-3l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1949,12 +1957,4 @@ section.form .container {
 #ext_menu-3l h5,
 #ext_menu-3l h1 {
   text-shadow: 6px 6px 10px #000000;
-}
-#contacts1-3n P {
-  font-size: 18px;
-  color: #ffffff;
-  font-family: 'PT Sans', sans-serif;
-}
-#contacts1-3n B {
-  font-family: 'PT Sans', sans-serif;
 }
