@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Roush Commercial Services",
+    "name": "Roush Asphalt & Paving",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -37,9 +37,9 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "https://roushhomeandroof.com",
+    "siteUrl": "https://roushasphaltandpaving.com",
     "pwa-switcher": true,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126685359-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-126685359-2');\n</script>\n",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-83N5TM0V5H\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-83N5TM0V5H');\n</script>\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "PWA": {
       "enabled": true,
