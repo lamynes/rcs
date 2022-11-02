@@ -177,7 +177,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/312320184-398001502531792-4194320498497460957-n-2000x1500.jpg",
