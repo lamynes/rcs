@@ -122,8 +122,8 @@ h6,
   border-color: #000000 !important;
 }
 .btn-secondary {
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #e25041;
+  border-color: #e25041;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -132,14 +132,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #ba2b1c;
+  border-color: #ba2b1c;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #ba2b1c !important;
+  border-color: #ba2b1c !important;
 }
 .btn-info {
   background-color: #e25041;
@@ -243,8 +243,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #000000;
-  color: #000000;
+  border-color: #a42619;
+  color: #a42619;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -252,14 +252,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #e25041;
+  border-color: #e25041;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #e25041 !important;
+  border-color: #e25041 !important;
 }
 .btn-info-outline {
   background: none;
@@ -840,11 +840,11 @@ section.form .container {
 }
 #header3-32 .mbr-section-title {
   font-size: 46px;
-  color: #ffffff;
+  color: #000000;
   font-family: 'PT Sans', sans-serif;
 }
 #header3-32 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
   font-family: 'PT Sans', sans-serif;
 }
@@ -955,16 +955,13 @@ section.form .container {
 #slider-z P {
   font-family: 'PT Sans', sans-serif;
 }
-#slider-z h2 {
-  text-shadow: 6px 6px 10px #000000;
-}
 #content1-u P {
   text-align: center;
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 #content1-u DIV {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-3q P {
   font-size: 18px;

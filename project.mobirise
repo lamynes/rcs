@@ -7,7 +7,7 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#000000",
+        "secondaryColor": "#e25041",
         "successColor": "#000000",
         "infoColor": "#e25041",
         "warningColor": "#000000",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 136,
+    "uniqCompNum": 137,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -236,12 +236,12 @@
             },
             ".mbr-section-title": {
               "font-size": "46px",
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "20px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -251,7 +251,7 @@
             "showMeta": true,
             "paddingTop": "5",
             "paddingBottom": "5",
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "title": "Serving the Southeastern United States",
           "meta": "Whether your project involves parking lot paving, driveway paving, parking lot paint striping, stenciling, ADA striping, parking bumpers, pipe bollards or handicap signs, your satisfaction is always 100% guaranteed. Licensed, Bonded &amp; Insured. Call today for a free estimate. South Alabama call <a href=\"tel:(251) 508-6018\" class=\"text-danger\">(251) 508-6018</a> ",
@@ -390,27 +390,6 @@
               "font-size": "25px"
             }
           },
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-a",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -605,16 +584,7 @@
           },
           "_anchor": "contacts1-3q",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "power_washing.html": {
-      "settings": {
-        "meta_descr": "Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.",
-        "title": "Residential Power Washing",
-        "order": 6
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -628,14 +598,23 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-n",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
-        },
+        }
+      ]
+    },
+    "power_washing.html": {
+      "settings": {
+        "meta_descr": "Our roof cleaning, chemical wash process is bio-degradable, plus lowers the energy bill by on average 11%. We make your house or commercial property look like new plus add life to your roof. If you are looking for high-quality, reliable, and personal service, you’ve found the right company.",
+        "title": "Residential Power Washing",
+        "order": 6
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -854,7 +833,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
-          "_customCSS": "h2 {\n  text-shadow: 6px 6px 10px #000000;\n}",
+          "_customCSS": "",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -968,7 +947,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>Please call <a href=\"tel:(251) 508-6018\" style=\"\" class=\"text-info\">(251) 508-6018</a> or <a href=\"index.html#form1-h\" class=\"text-info\">contact</a> us today to <a href=\"https://www.facebook.com/roushhomecleaning/\" target=\"_blank\" class=\"text-info\">schedule an appointment</a>. We welcome new customers.</i></p><p><i style=\"\">Bookmark our website. Save our phone number for future service needs.</i><br></p><p><br></p><p>\n</p><p>\n</p><p>Local residential and commercial roof cleaning and property cleaning company serving customers in cities, towns, and suburbs in Baldwin and Mobile County, Alabama including Prichard, Mobile, Saraland, Daphne, and Fairhope.</p>",
           "_tags": [
@@ -983,7 +962,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "content1-u",
@@ -1038,6 +1017,27 @@
             }
           },
           "_anchor": "contacts1-3q",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1157,27 +1157,6 @@
         "meta_image": "@PROJECT_PATH@/assets/images/adobestock-143528089-2000x1333.jpg"
       },
       "components": [
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1l",
-          "_sourceTheme": "mobirise3"
-        },
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -1516,17 +1495,7 @@
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "parking_lot_sealcoating.html": {
-      "settings": {
-        "meta_descr": "The products we use to sealcoat parking lots is the most reputable in the industry.  They stand the test of time and saves our customers money in the long run.",
-        "title": "Parking Lot Sealcoating",
-        "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg"
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -1540,14 +1509,24 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-1w",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
-        },
+        }
+      ]
+    },
+    "parking_lot_sealcoating.html": {
+      "settings": {
+        "meta_descr": "The products we use to sealcoat parking lots is the most reputable in the industry.  They stand the test of time and saves our customers money in the long run.",
+        "title": "Parking Lot Sealcoating",
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/sealcoating-process-sealcoating-1000x664.jpg"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -1922,17 +1901,7 @@
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "bollards_installation.html": {
-      "settings": {
-        "meta_descr": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered. We use, design and make some of the highest quality bollard poles. Competitively priced and installed.",
-        "title": "Parking Lot Bollards Installation",
-        "order": 3,
-        "meta_image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg"
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -1946,14 +1915,24 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-25",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
-        },
+        }
+      ]
+    },
+    "bollards_installation.html": {
+      "settings": {
+        "meta_descr": "Whether you are looking to add security to a pedestrian walkway or protection for fire hydrants using steel or breakaway bollards, Roush Commercial Services has you covered. We use, design and make some of the highest quality bollard poles. Competitively priced and installed.",
+        "title": "Parking Lot Bollards Installation",
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/bollard-13-1024x768.jpg"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -2325,17 +2304,7 @@
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "crack_sealing.html": {
-      "settings": {
-        "meta_descr": "Crack Sealing is a popular choice to improve the longevity and durability of a parking lot. No single maintenance technique preserves and extends the life of pavement as effectively as asphalt crack sealing.",
-        "title": "Parking Lot Crack Sealing",
-        "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg"
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -2349,14 +2318,24 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2e",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
-        },
+        }
+      ]
+    },
+    "crack_sealing.html": {
+      "settings": {
+        "meta_descr": "Crack Sealing is a popular choice to improve the longevity and durability of a parking lot. No single maintenance technique preserves and extends the life of pavement as effectively as asphalt crack sealing.",
+        "title": "Parking Lot Crack Sealing",
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/crack-sealing-2-2000x1250.jpg"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -2728,17 +2707,7 @@
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "signage.html": {
-      "settings": {
-        "meta_descr": "If you own a commercial property with a parking lot, you’ve already probably purchased signage. But whether you’re new to the game or a veteran, you might still be wondering, what exactly are the rules and regulations regarding my signage? How much signage do I need? What type of resources are available to me?",
-        "title": "Parking Lot Signage",
-        "order": 5,
-        "meta_image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg"
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -2752,14 +2721,24 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2n",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
-        },
+        }
+      ]
+    },
+    "signage.html": {
+      "settings": {
+        "meta_descr": "If you own a commercial property with a parking lot, you’ve already probably purchased signage. But whether you’re new to the game or a veteran, you might still be wondering, what exactly are the rules and regulations regarding my signage? How much signage do I need? What type of resources are available to me?",
+        "title": "Parking Lot Signage",
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/ada-parking-healthcare-installation-1080x1115.jpg"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -3131,17 +3110,7 @@
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
           "_sourceTheme": "mobirise3"
-        }
-      ]
-    },
-    "parking_lot_and_driveway_paving.html": {
-      "settings": {
-        "meta_descr": "Providing the best service in the Southeastern United States",
-        "title": "Parking Lot & Driveway Paving",
-        "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/parking-lot-maintenance3-1920x1440-800x600.jpg"
-      },
-      "components": [
+        },
         {
           "_params": {
             "paddingTop": 2,
@@ -3155,14 +3124,24 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH COMMERCIAL SERVICES.",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "footer1-37"
-        },
+          "_anchor": "footer1-3s",
+          "_sourceTheme": "mobirise3"
+        }
+      ]
+    },
+    "parking_lot_and_driveway_paving.html": {
+      "settings": {
+        "meta_descr": "Providing the best service in the Southeastern United States",
+        "title": "Parking Lot & Driveway Paving",
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/parking-lot-maintenance3-1920x1440-800x600.jpg"
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -3698,6 +3677,27 @@
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3s",
           "_sourceTheme": "mobirise3"
         }
       ]
