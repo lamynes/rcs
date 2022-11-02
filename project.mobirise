@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Asphalt & Paving",
-    "currentPage": "index.html",
+    "currentPage": "parking_lot_and_driveway_paving.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3422,8 +3422,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/311629173-189627726932888-8727504687826851852-n-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/311629173-189627726932888-8727504687826851852-n-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/312189237-190454480183546-5566010756172516165-n-720x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/312189237-190454480183546-5566010756172516165-n-720x540-720x540.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
