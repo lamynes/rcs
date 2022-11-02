@@ -93,13 +93,13 @@ h6,
   background-color: #000000 !important;
 }
 .bg-info {
-  background-color: #eb6b56 !important;
+  background-color: #e25041 !important;
 }
 .bg-warning {
   background-color: #000000 !important;
 }
 .bg-danger {
-  background-color: #faaf40 !important;
+  background-color: #e25041 !important;
 }
 .btn-primary {
   background-color: #000000;
@@ -142,8 +142,8 @@ h6,
   border-color: #000000 !important;
 }
 .btn-info {
-  background-color: #eb6b56;
-  border-color: #eb6b56;
+  background-color: #e25041;
+  border-color: #e25041;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -152,14 +152,14 @@ h6,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #db351a;
-  border-color: #db351a;
+  background-color: #ba2b1c;
+  border-color: #ba2b1c;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #db351a !important;
-  border-color: #db351a !important;
+  background-color: #ba2b1c !important;
+  border-color: #ba2b1c !important;
 }
 .btn-success {
   background-color: #000000;
@@ -202,8 +202,8 @@ h6,
   border-color: #000000 !important;
 }
 .btn-danger {
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #e25041;
+  border-color: #e25041;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -212,14 +212,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #e78d06;
-  border-color: #e78d06;
+  background-color: #ba2b1c;
+  border-color: #ba2b1c;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #e78d06 !important;
-  border-color: #e78d06 !important;
+  background-color: #ba2b1c !important;
+  border-color: #ba2b1c !important;
 }
 .btn-primary-outline {
   background: none;
@@ -263,8 +263,8 @@ h6,
 }
 .btn-info-outline {
   background: none;
-  border-color: #c43017;
-  color: #c43017;
+  border-color: #a42619;
+  color: #a42619;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -272,14 +272,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #eb6b56;
-  border-color: #eb6b56;
+  background-color: #e25041;
+  border-color: #e25041;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #eb6b56 !important;
-  border-color: #eb6b56 !important;
+  background-color: #e25041 !important;
+  border-color: #e25041 !important;
 }
 .btn-success-outline {
   background: none;
@@ -323,8 +323,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #cf7d05;
-  color: #cf7d05;
+  border-color: #a42619;
+  color: #a42619;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -332,14 +332,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #e25041;
+  border-color: #e25041;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #faaf40 !important;
-  border-color: #faaf40 !important;
+  background-color: #e25041 !important;
+  border-color: #e25041 !important;
 }
 .text-primary {
   color: #000000 !important;
@@ -348,25 +348,25 @@ h6,
   color: #000000 !important;
 }
 .text-info {
-  color: #eb6b56 !important;
+  color: #e25041 !important;
 }
 .text-warning {
   color: #000000 !important;
 }
 .text-danger {
-  color: #faaf40 !important;
+  color: #e25041 !important;
 }
 .alert-success {
   background-color: #000000;
 }
 .alert-info {
-  background-color: #eb6b56;
+  background-color: #e25041;
 }
 .alert-warning {
   background-color: #000000;
 }
 .alert-danger {
-  background-color: #faaf40;
+  background-color: #e25041;
 }
 .btn-social {
   border-color: #000000;
@@ -406,7 +406,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #fdf3f2;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -414,7 +414,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #fdf3f2;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
