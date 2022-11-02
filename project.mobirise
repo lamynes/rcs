@@ -75,7 +75,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -84,7 +84,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -93,7 +93,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -107,10 +108,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -135,11 +136,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -164,7 +166,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -1048,7 +1050,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -1057,7 +1059,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1066,7 +1068,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1080,10 +1083,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1108,11 +1111,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -1137,7 +1141,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -1416,7 +1420,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -1425,7 +1429,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1434,7 +1438,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1448,10 +1453,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1476,11 +1481,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -1505,7 +1511,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -1820,7 +1826,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -1829,7 +1835,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1838,7 +1844,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1852,10 +1859,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1880,11 +1887,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -1909,7 +1917,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -2221,7 +2229,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -2230,7 +2238,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2239,7 +2247,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2253,10 +2262,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2281,11 +2290,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -2310,7 +2320,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -2622,7 +2632,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -2631,7 +2641,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2640,7 +2650,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2654,10 +2665,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2682,11 +2693,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -2711,7 +2723,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -3023,7 +3035,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -3032,7 +3044,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3041,7 +3053,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3055,10 +3068,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3083,11 +3096,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -3112,7 +3126,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
@@ -3589,7 +3603,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -3598,7 +3612,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"https://www.facebook.com/roushcommericalservices\" target=\"_blank\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(61, 142, 185);\"></span>LEARN MORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMMERCIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_and_driveway_paving.html\">Parking Lot &amp; Driveway Paving&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_paint_striping.html\">Parking Lot Striping</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"parking_lot_sealcoating.html\">Parking Lot Seal Coating</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"crack_sealing.html\">Parking Lot Crack Sealing</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"signage.html\">Parking Lot Signage<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"bollards_installation.html\">Bollard Installation</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://roushcommercialpowerwashing.com/\" target=\"_blank\">Commercial Power Washing<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">RESIDENTIAL SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"power_washing.html\">Power Washing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary\" href=\"tel:(251) 508-6018\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>(251) 508-6018&nbsp;</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3607,7 +3621,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3621,10 +3636,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3649,11 +3664,12 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
             },
             ".btn": {
               "font-size": "17px"
@@ -3678,7 +3694,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT <br>&amp; PAVING</a>",
+          "brand": "<a class=\"navbar-caption text-black text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROUSH ASPHALT&amp; PAVING</a>",
           "_name": "ext.menu",
           "_customCSS": "",
           "_anchor": "ext_menu-3r",
