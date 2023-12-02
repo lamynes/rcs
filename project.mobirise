@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roush Asphalt & Paving",
-    "currentPage": "index.html",
+    "currentPage": "parking_lot_and_driveway_paving.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "versionFirst": "4.11.4",
     "siteFonts": [],
     "uniqCompNum": 137,
-    "versionPublish": "5.6.11",
+    "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -598,7 +598,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -861,7 +861,7 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -869,7 +869,7 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -877,7 +877,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -885,7 +885,7 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1032,7 +1032,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -1509,7 +1509,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -1915,7 +1915,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -2318,7 +2318,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -2721,7 +2721,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -3124,7 +3124,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
@@ -3292,6 +3292,54 @@
             "showText": false,
             "filter": false,
             "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/378959878-325601596668833-7276825810576075479-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/378959878-325601596668833-7276825810576075479-n-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/378971817-325604446668548-5652343777338604525-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/378971817-325604446668548-5652343777338604525-n-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/366747673-313607024534957-7573016336213293188-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/366747673-313607024534957-7573016336213293188-n-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/378875682-325601696668823-2789889945651473617-n-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/378875682-325601696668823-2789889945651473617-n-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -3692,7 +3740,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 ROUSH ASPHALT&amp; PAVING",
+          "text": "Copyright (c) 2020 ROUSH ASPHALT &amp; PAVING",
           "_tags": [
             "Theme"
           ],
